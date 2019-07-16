@@ -1,2 +1,2 @@
-# jsegovia-aguas.io
+# jsego.io
 Javier Segovia-Aguas personal webpage
